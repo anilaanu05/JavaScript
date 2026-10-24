@@ -14,3 +14,8 @@ class employee {
 const employeeObj = new employee("Anila",30)
 employeeObj.displayEmployee()
 
+//ts file crete add to same repo
+//git status
+//git add
+//git status
+//comit Push
